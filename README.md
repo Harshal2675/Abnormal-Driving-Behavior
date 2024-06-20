@@ -3,7 +3,7 @@ A Machine Learning project on Identifying Abnormal driving behavior using Spatio
 
 # Methodology:
 - Feature Engineering
-- Trained K-Nearest Neighbors (KNN) algorithm using grid search.
+- Training K-Nearest Neighbors (KNN) algorithm using grid search.
 - Predicting Tracks as normal and abnormal driving behaviors by evaluating the performance of the classifier.
 - Model evaluation
 - Image generation (accuracy loss)
