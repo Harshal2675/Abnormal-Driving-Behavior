@@ -1,15 +1,18 @@
 # Abnormal-Driving-Behavior
 A Machine Learning project on Identifying Abnormal driving behavior using Spatio-Temporal analysis by creating a binary classifier.
 
-# Methodology:
+# Dataset
+- Drone dataset given by Ahmedabad University. (Dataset not to be public)
+
+# Methodology
 - Feature Engineering
 - Training K-Nearest Neighbors (KNN) algorithm using grid search.
-- Predicting Tracks as normal and abnormal driving behaviors by evaluating the performance of the classifier.
+- Predicting Tracks as normal and abnormal by evaluating the performance of the classifier.
 - Model evaluation
 - Image generation (accuracy loss)
 
-# Results:
-- Our model achieved an accuracy of 75.38% in distinguishing between normal and abnormal driving trajectories.
+# Results
+- Our model achieved an accuracy of 75.38% in distinguishing between normal and abnormal driving trajectories.
 
 ![Result](https://github.com/Harshal2675/Abnormal-Driving-Behavior/assets/111491768/8bd10f67-e3bc-4b2b-85b7-e9a317285f23)
 
